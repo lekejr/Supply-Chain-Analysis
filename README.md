@@ -1,4 +1,4 @@
-# Supply Chain Performance Report
+# Supply Chain Performance
 
 ## Table of Contents
 - [Introduction](#introduction)
